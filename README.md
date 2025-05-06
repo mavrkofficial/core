@@ -122,6 +122,6 @@ Mavrk is designed for creators of all experience levels — no code, no liquidit
 ## 📬 Contact & Links
 
 - 🌐 Website: https://mavrk.xyz  
-- 🧾 Whitepaper: https://s3.us-east-2.amazonaws.com/mavrk.xyz/Mavrk_Whitepaper_v1+.pdf  
+- 🧾 Whitepaper: https://s3.us-east-2.amazonaws.com/mavrk.xyz/Mavrk_Whitepaper_v1.pdf 
 - 📢 Twitter: https://x.com/mavrkofficial  
 - 💬 Telegram: https://t.me/mavrkofficial  
